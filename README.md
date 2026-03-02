@@ -1,82 +1,79 @@
-<h1 align="center">👋 Olá, eu sou Atauan Lima</h1>
+<h1 align="center">Atauan Lima | Fullstack Developer</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f0f,100:202020&height=120&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontColor=ffffff&fontSize=30&fontAlignY=40" />
+  <strong>Node.js • React • APIs Escaláveis • Automação</strong><br/>
+  <em>Construindo produtos digitais do back-end ao front-end com foco em performance e manutenibilidade</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=CCCCCC&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Especialista+em+Node.js+e+React;Foco+em+APIs+e+Automação;Sempre+aprendendo+novas+tecnologias" />
+  📍 Sergipe, Brasil • 🌐 Disponível para oportunidades remotas<br/>
+  📧 <a href="mailto:atauan198@gmail.com">atauan198@gmail.com</a> • 🔗 <a href="https://linkedin.com/in/atauanlima" target="_blank">linkedin.com/in/atauanlima</a>
 </p>
 
 ---
 
-### 🧠 Sobre mim
+## 💼 O que eu faço
 
-- 💼 Desenvolvedor **Fullstack** com foco em construir produtos escaláveis
-- 🚀 Atualmente aprendendo: `NestJS`, `Docker`, `CI/CD`
-- 🤝 Buscando colaborar em projetos de **automação**, **bots** e **APIs**
-- 📍 Local: Sergipe, Brasil | Disponível para **remoto**
-- 📬 Contato: [LinkedIn](https://linkedin.com/in/atauanlima) | [Email](mailto:atauan198@gmail.com)
+Desenvolvedor **Fullstack** especializado em criar soluções completas: APIs robustas em **Node.js/NestJS**, interfaces modernas em **React/Next.js**, e automações que economizam tempo e dinheiro.
 
----
+**Meu stack principal:**
+- **Back-end:** Node.js, NestJS, Express, PHP, REST APIs, Webhooks
+- **Front-end:** React, Next.js, TypeScript, Tailwind CSS
+- **Banco de Dados:** PostgreSQL, MySQL, BigQuery, Supabase
+- **DevOps:** Docker, GitHub Actions, CI/CD, Git
+- **Ferramentas:** VS Code, Postman, Insomnia, Linux
 
-## 🛠️ Tecnologias & Ferramentas
-
-### 📌 Linguagens
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,lua&theme=dark" />
-</p>
-
-### ⚙️ Back-end
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php&theme=dark" />
-</p>
-
-### 🎨 Front-end
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
-</p>
-
-### 🗄️ Banco de Dados
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
-</p>
-
-### 🚀 DevOps & Ferramentas
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman&theme=dark" />
-</p>
+**O que eu entrego:**
+- ✅ APIs escaláveis com autenticação, logs e tratamento de erros
+- ✅ Dashboards e painéis administrativos que facilitam decisões
+- ✅ Automações de processos manuais (bots, integrações, webhooks)
+- ✅ Code limpo, documentado e pronto para equipe
 
 ---
 
-## 📊 Estatísticas
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Techs |
+|---------|-----------|-------|
+| **[E-commerce Platform](link)** | Plataforma completa de vendas com carrinho, checkout e painel administrativo | Next.js, Node.js, PostgreSQL, Stripe |
+| **[Automation Bot](link)** | Bot para automação de processos e integrações via API | Node.js, Puppeteer, Webhooks |
+| **[Dashboard Analytics](link)** | Painel de métricas em tempo real com gráficos e exportação | React, BigQuery, Chart.js |
+
+> 💡 *Mais projetos no meu [GitHub](https://github.com/Atauan?tab=repositories)*
+
+---
+
+## 📈 Números que importam
+
+- **1.700+ commits** no último ano
+- **X anos** escrevendo código profissionalmente
+- **Projetos entregues** para clientes e produtos próprios
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atauan&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atauan&layout=compact&langs_count=8&theme=dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Atauan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atauan&layout=compact&langs_count=6&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-### 🔗 Conecte-se comigo
+## 🎯 O que estou buscando
 
-<p align="center">
-  <a href="https://linkedin.com/in/atauanlima" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:atauan198@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+- Oportunidades **remotas** como Fullstack ou Back-end Developer
+- Times que valorizam **código limpo**, **automação** e **entrega contínua**
+- Projetos desafiadores com **APIs**, **integrações** e **escalabilidade**
 
 ---
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Atauan&theme=dracula" />
-</p>
+## 📬 Vamos conversar?
+
+Se você está buscando alguém que **entrega código de qualidade**, **resolve problemas reais** e **veste a camisa do produto**, me chama:
+
+- 💼 [LinkedIn](https://linkedin.com/in/atauanlima) - Melhor canal
+- 📧 [atauan198@gmail.com](mailto:atauan198@gmail.com)
+- 💬 Disponível para calls e testes técnicos
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f0f&height=80&section=footer&text=Obrigado%20por%20visitar%20meu%20perfil!&fontColor=ffffff&fontSize=20&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=footer&text=Obrigado%20pela%20visita!&fontColor=c9d1d9&fontSize=18" />
 </p>
