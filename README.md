@@ -46,8 +46,8 @@ Desenvolvedor **Fullstack** especializado em criar soluções completas: APIs ro
 ## 📈 Números que importam
 
 - **1.700+ commits** no último ano
-- **X anos** escrevendo código profissionalmente
-- **Projetos entregues** para clientes e produtos próprios
+- **3 anos** escrevendo código profissionalmente
+- **Projetos entregues** produtos próprios
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Atauan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
