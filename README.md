@@ -1,54 +1,55 @@
 <h1 align="center">👋 Olá, eu sou Atauan Lima</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:202020&height=120&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontColor=ffffff&fontSize=30&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f0f,100:202020&height=120&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontColor=ffffff&fontSize=30&fontAlignY=40" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=CCCCCC&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Apaixonado+por+Dark+Mode;Sempre+aprendendo+novas+tecnologias" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=CCCCCC&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Especialista+em+Node.js+e+React;Foco+em+APIs+e+Automação;Sempre+aprendendo+novas+tecnologias" />
 </p>
 
 ---
 
 ### 🧠 Sobre mim
 
-- 👨‍💻 Desenvolvedor Fullstack com foco em auto desenvolvimento
-- 🌱 Atualmente aprendendo: `NestJS`, `Docker`, `CI/CD`
-- 💞️ Buscando colaborar em projetos de automação e bots
-- 📫 Contato: [LinkedIn](https://linkedin.com/in/seu-linkedin) | [Email](mailto:seu@email.com)
+- 💼 Desenvolvedor **Fullstack** com foco em construir produtos escaláveis
+- 🚀 Atualmente aprendendo: `NestJS`, `Docker`, `CI/CD`
+- 🤝 Buscando colaborar em projetos de **automação**, **bots** e **APIs**
+- 📍 Local: Sergipe, Brasil | Disponível para **remoto**
+- 📬 Contato: [LinkedIn](https://linkedin.com/in/atauanlima) | [Email](mailto:atauan198@gmail.com)
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
-#### 💻 Linguagens
+### 📌 Linguagens
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,lua&theme=dark" />
 </p>
 
-#### ⚙️ Back-end
+### ⚙️ Back-end
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php&theme=dark" />
 </p>
 
-#### 🎨 Front-end
+### 🎨 Front-end
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
 </p>
 
-#### 🗄️ Banco de Dados
+### 🗄️ Banco de Dados
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
 </p>
 
-#### 🧰 DevOps & Ferramentas
+### 🚀 DevOps & Ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman&theme=dark" />
 </p>
 
 ---
 
-### 📈 Estatísticas
+## 📊 Estatísticas
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atauan&show_icons=true&theme=dark&hide_border=true" />
@@ -61,10 +62,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/atauanlima" target="_blank">
-    <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:atauan198@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-333333?style=flat-square&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
